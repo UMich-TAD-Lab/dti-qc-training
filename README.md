@@ -1,3 +1,37 @@
+# DTI Quality Control Trainging 
+## Undergraduate Training Resource for DTI Artifact Identification
+
+
+##Cardinal Rules of Artifact Checking
+1. Each ID must have three independent reporters for artifact identification
+1. Artifact identification must be done independently! Do not seek the opinion of other artifact reporters who are assigned the same ID. 
+
+##Required resources: 
+fslview
+high resolustion moniters (laptops and low resolution monitors are not recommended)
+atleast 3 lab members to identify artifacts. Recommend 6 RA's work in teams of 2 in order to identify artifacts
+time: RA's will take approximately 1 hour to search for artifacts in a single ID. Budget undergrad workload to account for 3 hours of artifact checking per DTI scan. 
+
+
+##Documentation: 
+Master tracking log *insert excel
+    *Permission status: all lab members have read & write access
+Artifact Reporter (1,2,3) identified artifacts *insert excel
+    *Permission status: read & write access limited to RA(s) assigned to one of the three reporters
+    
+    
+## How to Identify Artifacts
+2.	Open Fslview from applications
+2.  In fslview select: File -> Open -> DTI RAW DATA PATH
+2.  Adjust brightness *insert brightness image
+2.  Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top. 
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/UMich-TAD-Lab/dti-qc-training/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
