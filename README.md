@@ -2,18 +2,18 @@
 ## Undergraduate Training Resource for DTI Artifact Identification
 
 
-##Cardinal Rules of Artifact Checking
+## Cardinal Rules of Artifact Checking
 1. Each ID must have three independent reporters for artifact identification
 1. Artifact identification must be done independently! Do not seek the opinion of other artifact reporters who are assigned the same ID. 
 
-##Required resources: 
+## Required resources: 
 fslview
 high resolustion moniters (laptops and low resolution monitors are not recommended)
 atleast 3 lab members to identify artifacts. Recommend 6 RA's work in teams of 2 in order to identify artifacts
 time: RA's will take approximately 1 hour to search for artifacts in a single ID. Budget undergrad workload to account for 3 hours of artifact checking per DTI scan. 
 
 
-##Documentation: 
+## Documentation: 
 Master tracking log *insert excel
     *Permission status: all lab members have read & write access
 Artifact Reporter (1,2,3) identified artifacts *insert excel
