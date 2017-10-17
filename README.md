@@ -21,10 +21,10 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
     
     
 ## How to Identify Artifacts
-2.	Open Fslview from applications
-2.  In fslview select: File -> Open -> DTI RAW DATA PATH
-2.  Adjust brightness *insert brightness image
-2.  Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top. 
+1.	Open Fslview from applications
+1.  In fslview select: File -> Open -> DTI RAW DATA PATH
+1.  Adjust brightness *insert brightness image
+1.  Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top. 
 
 
 
