@@ -20,11 +20,16 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
     *Permission status: read & write access limited to RA(s) assigned to one of the three reporters
     
     
-## How to Identify Artifacts
+## How to Identify Artifacts (and signal drop out)
 1.	Open Fslview from applications
 1.  In fslview select: File -> Open -> DTI RAW DATA PATH
 1.  Adjust brightness *insert brightness image
-1.  Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top. 
+1. Artifacts will generally look like diagonal, vertical, or horizontal lines running through the brain image.
+1. Signal drop out, which is th eoverall darkening of a full slice (sometimes fully black sometimes moderately darker). *Note you will ofent notice dark stripping in the coronal and saggital view
+1.Check for artifacts within the horizontal plane by beginning at the bottom of the brain and scrolling up(within the sagittal plane)  until you have checked each slice, bottom to top. *insert top and bottom image 
+1. Check each volume, bottom to top, and record any artifacts found in your RA(1/2/3) found artifacts log *attatch excel log (note private to RA'S assigned RA1,RA2, or RA3
+1. Once you have checked all volumes in an ID place your initials in the DTI artifact tracking log *attatch excel log (note permissions are ecessivle to all). Do not idicate found artifacts on this log, as it is shared with everyone.
+1.
 
 
 
