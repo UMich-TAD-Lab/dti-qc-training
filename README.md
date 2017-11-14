@@ -24,6 +24,7 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 1.	Open Fslview from applications
 1.  In fslview select: File -> Open -> DTI RAW DATA PATH
 1.  Adjust brightness
+
 ![Image](brightness.png)
 
 1. Artifacts will generally look like diagonal, vertical, or horizontal lines running through the brain image.
