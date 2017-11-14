@@ -26,7 +26,7 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 - Adjust brightness
 
 
-![Image](brightness.png)
+<p align="center"![Image](brightness.png)
 
 - Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top
 
