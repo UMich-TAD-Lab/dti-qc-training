@@ -1,4 +1,4 @@
-# DTI Quality Control Trainging 
+# DTI Quality Control Training 
 ## Undergraduate Training Resource for DTI Artifact Identification
 
 
