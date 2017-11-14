@@ -30,6 +30,8 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 ![Image](brightness.png)
 - Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top
 
+<p align="center"
+
 ![Image](artifact1.png) ![Image](artifact2.png)
 - Artifacts will generally look like diagonal, vertical, or horizontal lines running through the brain image.
 
