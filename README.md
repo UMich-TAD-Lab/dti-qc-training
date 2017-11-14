@@ -25,9 +25,7 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 - In fslview select: File -> Open -> DTI RAW DATA PATH
 - Adjust brightness
 
-<p align="center">
-  ![Image](brightness.png)
-</p>
+<p align="center"![Image](brightness.png)
 
 
 ![Image](brightness.png)
