@@ -7,7 +7,7 @@
 1. Artifact identification must be done independently! Do not seek the opinion of other artifact reporters who are assigned the same ID. 
 
 ## Required resources: 
-- fslview
+- Fslview
 - High resolustion moniters (laptops and low resolution monitors are not recommended)
 - At least 3 lab members to identify artifacts. Recommend 6 RA's work in teams of 2 in order to identify artifacts
 - time: RA's will take approximately 1 hour to search for artifacts in a single ID. Budget undergrad workload to account for 3 hours of artifact checking per DTI scan. 
