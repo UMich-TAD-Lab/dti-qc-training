@@ -14,7 +14,7 @@
 
 
 ## Documentation: 
-- Overall tracking log *insert excel
+- Overall tracking log [Example Log](DTIOverallTrackingLog.xlxs)
     - Permission status: all lab members have read & write access
 - Artifact Reporter (1,2,3) identified artifacts *insert excel
     - Permission status: read & write access limited to RA(s) assigned to one of the three reporters
