@@ -14,10 +14,10 @@
 
 
 ## Documentation: 
-Master tracking log *insert excel
-    *Permission status: all lab members have read & write access
-Artifact Reporter (1,2,3) identified artifacts *insert excel
-    *Permission status: read & write access limited to RA(s) assigned to one of the three reporters
+- Master tracking log *insert excel
+* Permission status: all lab members have read & write access
+- Artifact Reporter (1,2,3) identified artifacts *insert excel
+* Permission status: read & write access limited to RA(s) assigned to one of the three reporters
     
     
 ## How to Identify Artifacts (and signal drop out)
@@ -25,23 +25,17 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 - In fslview select: File -> Open -> DTI RAW DATA PATH
 - Adjust brightness
 
-<!--the below code is how you center an image and add an image-->
-<p align="center" 
+<!--the below code is how you center an image and add an image--> 
 
 ![Image](brightness.png)
 - Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top
 
-<p align="center"
-
 ![Image](artifact1.png) ![Image](artifact2.png)
 - Artifacts will generally look like diagonal, vertical, or horizontal lines running through the brain image.
 
-<p align="center" 
 
 ![Image](artifact3.png)
 - Signal drop out, which is th eoverall darkening of a full slice (sometimes fully black sometimes moderately darker). *Note you will often notice dark stripping in the coronal and saggital view
-
-<p align="center" 
 
 ![Image](artifact4.png)
 - Check for artifacts within the horizontal plane by beginning at the bottom of the brain and scrolling up (within the sagittal plane)  until you have checked each slice, bottom to top. 
