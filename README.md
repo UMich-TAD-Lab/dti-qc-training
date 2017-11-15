@@ -36,6 +36,8 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 ![Image](artifact1.png) ![Image](artifact2.png)
 - Artifacts will generally look like diagonal, vertical, or horizontal lines running through the brain image.
 
+<p align="center" 
+
 ![Image](artifact3.png)
 - Signal drop out, which is th eoverall darkening of a full slice (sometimes fully black sometimes moderately darker). *Note you will often notice dark stripping in the coronal and saggital view
 
