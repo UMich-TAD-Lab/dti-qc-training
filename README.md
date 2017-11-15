@@ -41,6 +41,8 @@ Artifact Reporter (1,2,3) identified artifacts *insert excel
 ![Image](artifact3.png)
 - Signal drop out, which is th eoverall darkening of a full slice (sometimes fully black sometimes moderately darker). *Note you will often notice dark stripping in the coronal and saggital view
 
+<p align="center" 
+
 ![Image](artifact4.png)
 - Check for artifacts within the horizontal plane by beginning at the bottom of the brain and scrolling up (within the sagittal plane)  until you have checked each slice, bottom to top. *insert top and bottom image 
 - Check each volume, bottom to top, and record any artifacts found in your RA(1/2/3) found artifacts log *attatch excel log (note private to RA'S assigned RA1,RA2, or RA3
