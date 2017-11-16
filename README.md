@@ -14,9 +14,8 @@
 
 
 ## Documentation: 
-- Overall tracking log
+- Overall tracking log ([Example Log](https://docs.google.com/a/umich.edu/spreadsheets/d/e/2PACX-1vTq3z7DzsvV2tAtxrhp0SfdU6xvdrfb3DDHucgXizJZxepaFp7ODBb-F5Knvi_5TyKs9VS8b-D1dba0/pubhtml?gid=0&single=true))
     - Permission status: all lab members have read & write access
-    <iframe src="https://docs.google.com/a/umich.edu/spreadsheets/d/e/2PACX-1vTq3z7DzsvV2tAtxrhp0SfdU6xvdrfb3DDHucgXizJZxepaFp7ODBb-F5Knvi_5TyKs9VS8b-D1dba0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
     
 - Artifact Reporter (1,2,3) identified artifacts *insert excel
     - Permission status: read & write access limited to RA(s) assigned to one of the three reporters
