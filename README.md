@@ -17,7 +17,7 @@
 - Overall tracking log ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzCu0iLoKPHfjUIQ4U8b0XRmddBITwl3lmU0p7yyOHU1KJ6huS4SGx6KZfddjeG2HJKbbIGOttc2P/pub?output=xlsx))
     - Permission status: all lab members have read & write access
     
-- Artifact Reporter (1,2,3) identified artifacts ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_khA-rgupFDCrYI_BwQ8pNFJB3AxZVUzgOLU1zO9uoOws7NpPhKlzmB8eidODk6oXd4JzEVSYdOxb/pub?output=xlsx)
+- Artifact Reporter (1,2,3) identified artifacts ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_khA-rgupFDCrYI_BwQ8pNFJB3AxZVUzgOLU1zO9uoOws7NpPhKlzmB8eidODk6oXd4JzEVSYdOxb/pub?output=xlsx))
     - Permission status: read & write access limited to RA(s) assigned to one of the three reporters
     
 ## How to Identify Artifacts (and signal drop out)
