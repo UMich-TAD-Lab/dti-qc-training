@@ -1,4 +1,6 @@
 # DTI Quality Control Training 
+-Protocol Developed by Kristen Stauffer
+-Webpage Developed by Andie Bulbin
 ## Undergraduate Training Resource for DTI Artifact Identification
 
 
