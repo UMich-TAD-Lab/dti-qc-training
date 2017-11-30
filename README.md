@@ -1,8 +1,8 @@
 # DTI Quality Control Training 
--Protocol Developed by Kristen Stauffer
--Webpage Developed by Andie Bulbin
-## Undergraduate Training Resource for DTI Artifact Identification
+- Protocol Developed by Kristen Stauffer
+- Webpage Developed by Andie Bulbin
 
+## Undergraduate Training Resource for DTI Artifact Identification
 
 ## Cardinal Rules of Artifact Checking
 1. Each ID must have three independent reporters for artifact identification
@@ -13,7 +13,6 @@
 - High resolustion moniters (laptops and low resolution monitors are not recommended)
 - At least 3 lab members to identify artifacts. Recommend 6 RA's work in teams of 2 in order to identify artifacts
 - time: RA's will take approximately 1 hour to search for artifacts in a single ID. Budget undergrad workload to account for 3 hours of artifact checking per DTI scan. 
-
 
 ## Documentation: 
 - Overall tracking log ([Example Log](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzCu0iLoKPHfjUIQ4U8b0XRmddBITwl3lmU0p7yyOHU1KJ6huS4SGx6KZfddjeG2HJKbbIGOttc2P/pub?output=xlsx))
@@ -27,7 +26,7 @@
 - In fslview select: File -> Open -> DTI RAW DATA PATH
 - Adjust brightness
 
-<!--the below code is how you center an image and add an image--> 
+<!--The code below is how you add an imgage --!>
 
 ![Image](brightness.png)
 - Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top
