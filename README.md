@@ -47,6 +47,7 @@
 <p style="text-align: center;">
 Example 1 - Artifact
 </p>
+
 ![Image](example1clean.png)
 <p style="text-align: center;">
 Example 1 - Clean
