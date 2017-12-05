@@ -44,4 +44,4 @@
 ### Additional Examples
 
 ![Image](example1artifact.png) 
-![Image](example2clean.png)
+![Image](example1clean.png)
