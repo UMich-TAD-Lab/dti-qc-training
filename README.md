@@ -43,5 +43,11 @@
 
 ### Additional Examples
 
-![Image](example1artifact.png) 
+![Image](example1artifact.png)
+<p style="text-align: center;">
+Example 1 - Artifact
+</p>
 ![Image](example1clean.png)
+<p style="text-align: center;">
+Example 1 - Clean
+</p>
