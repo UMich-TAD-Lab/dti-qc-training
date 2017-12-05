@@ -29,7 +29,8 @@
 ![Image](brightness.png)
 - Check for artifacts by beginning at the bottom of the brain and scrolling up until you have checked each slice, bottom to top
 
-![Image](artifact1.png) ![Image](artifact2.png)
+![Image](artifact1.png)
+![Image](artifact2.png)
 - Artifacts will generally look like diagonal, vertical, or horizontal lines running through the brain image.
 
 ![Image](artifact3.png)
