@@ -43,5 +43,5 @@
 
 ### Additional Examples
 
-![Image](example1arficact.png) 
-![Image](example1clean.png)
+![Image](example1artifact.png) 
+![Image](example2clean.png)
