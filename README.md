@@ -42,3 +42,5 @@
 - Once you have checked all volumes in an ID, place your initials in the [DTI artifact overall tracking log](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxzCu0iLoKPHfjUIQ4U8b0XRmddBITwl3lmU0p7yyOHU1KJ6huS4SGx6KZfddjeG2HJKbbIGOttc2P/pub?output=xlsx) (note permissions are accessible to all). Do not indicate found artifacts on this log, as it is shared with everyone.
 
 ### Additional Examples
+
+![Image](example1arficact.png) ![Image](example1clean.png)
