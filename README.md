@@ -52,3 +52,45 @@ Example 1 - Artifact
 <p style="text-align: center;">
 Example 1 - Clean
 </p>
+
+![Image](example2artifact.png)
+<p style="text-align: center;">
+Example 2 - Artifact
+</p>
+
+![Image](example2clean.png)
+<p style="text-align: center;">
+Example 2 - Clean
+</p>
+
+![Image](example3artifact.png)
+<p style="text-align: center;">
+Example 3 - Artifact
+</p>
+
+![Image](example3clean.png)
+<p style="text-align: center;">
+Example 3 - Clean
+</p>
+
+![Image](example4artifact.png)
+<p style="text-align: center;">
+Example 4 - Artifact
+</p>
+
+![Image](example4clean.png)
+<p style="text-align: center;">
+Example 4 - Clean
+</p>
+
+![Image](example5artifact.png)
+<p style="text-align: center;">
+Example 5 - Artifact
+</p>
+
+![Image](example5clean.png)
+<p style="text-align: center;">
+Example 5 - Clean
+</p>
+
+
