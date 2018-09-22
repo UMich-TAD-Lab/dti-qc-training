@@ -1,6 +1,6 @@
 # DTI Quality Control Training 
-- Protocol Developed by Kristen Stauffer
-- Webpage Developed by Andie Bulbin
+- Protocol Developed by Robert C. Welsh, PhD
+- Webpage Developed by Kristen Stauffer & Andie Bulbin
 
 ## Undergraduate Training Resource for DTI Artifact Identification
 
